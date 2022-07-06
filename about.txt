@@ -1,0 +1,15 @@
+Goal: To scrape website, such as <https://manchesterorchestra.com/>, identify tour location stops (venues), upload to custom Google Maps
+
+Step 1: Want to scrape music tour location data from site; (Maybe) Use 'requests' to save html file (or whatever it is)
+	- though, some difficulty in scraping complete html data, for some reason (note: 05/10/22)
+
+Step 2: Use RegEx to isolate location data
+
+Step 3: Write location data to spreadsheet/csv - (used xlsxwriter for .xlsx file)
+	- tried csv(csv): couldn't get to write to individual cells
+	- tried xlwt(xls): couldn't create file
+	- tried pyexcel_ods(ods): couldn't create file
+	- xlsxwriter(xlsx): Worked!!
+
+Step 4: Upload spreadsheet of location data to Google Maps to create custom map of tour venue locations
+	- so far done manually, is there automatic way?

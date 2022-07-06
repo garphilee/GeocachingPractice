@@ -1,0 +1,574 @@
+﻿<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+        <div class="wpb_raw_code wpb_content_element wpb_raw_html">
+                <div class="wpb_wrapper">
+                        <script id="seated-55fdf2c0-script-eefbeaae-dbb1-4e40-a1e1-770ebd2dc777" data-artist-id="eefbeaae-dbb1-4e40-a1e1-770ebd2dc777" src="https://widget.seated.com/widget.js"></script><div id="seated-55fdf2c0" data-artist-id="eefbeaae-dbb1-4e40-a1e1-770ebd2dc777" data-css-version="2" data-start-load="true">
+    
+<!---->    <div class="seated-events-table">
+<!---->        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          May 15, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Irving Plaza</div>
+          <div class="seated-event-venue-location">New York, NY</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          (Andy Hull Solo Show)
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+          <div class="seated-event-link-cell2">
+            <a class="seated-event-link2" href="https://link.seated.com/99e9899c-a8c4-4089-a55b-8e93bd7c1b13/2" target="_blank">
+              VIP
+            </a>
+          </div>
+        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/99e9899c-a8c4-4089-a55b-8e93bd7c1b13" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          May 16, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">The Met</div>
+          <div class="seated-event-venue-location">Pawtucket, RI</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          (Andy Hull Solo Show)
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+          <div class="seated-event-link-cell2">
+            <a class="seated-event-link2" href="https://link.seated.com/84d5aaac-abc0-4e39-89ef-e586f3dd932c/2" target="_blank">
+              VIP
+            </a>
+          </div>
+        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/84d5aaac-abc0-4e39-89ef-e586f3dd932c" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          May 17, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Crystal Ballroom at Somerville Theatre</div>
+          <div class="seated-event-venue-location">Somerville, MA</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          (Andy Hull Solo Show)
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+          <div class="seated-event-link-cell2">
+            <a class="seated-event-link2" href="https://link.seated.com/0abe2eae-ae1f-467e-aa55-56b19cf9519d/2" target="_blank">
+              VIP
+            </a>
+          </div>
+        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/0abe2eae-ae1f-467e-aa55-56b19cf9519d" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          May 18, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Sixth &amp; I Historic Synagogue</div>
+          <div class="seated-event-venue-location">Washington, DC</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          (Andy Hull Solo Show)
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+          <div class="seated-event-link-cell2">
+            <a class="seated-event-link2" href="https://link.seated.com/6748684a-bc10-4dad-b203-6246517552a7/2" target="_blank">
+              VIP
+            </a>
+          </div>
+        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/6748684a-bc10-4dad-b203-6246517552a7" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          May 19, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Union Transfer</div>
+          <div class="seated-event-venue-location">Philadelphia, PA</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          (Andy Hull Solo Show)
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+          <div class="seated-event-link-cell2">
+            <a class="seated-event-link2" href="https://link.seated.com/47e7227c-e2fd-47ff-8bc2-81ca8d3da399/2" target="_blank">
+              VIP
+            </a>
+          </div>
+        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/47e7227c-e2fd-47ff-8bc2-81ca8d3da399" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          May 21, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Haw River Ballroom</div>
+          <div class="seated-event-venue-location">Saxapahaw, NC</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          (Andy Hull Solo Show)
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+          <div class="seated-event-link-cell2">
+            <a class="seated-event-link2" href="https://link.seated.com/e22fd792-1cc6-40a8-8eac-f1f0ed92fc30/2" target="_blank">
+              VIP
+            </a>
+          </div>
+        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/e22fd792-1cc6-40a8-8eac-f1f0ed92fc30" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          May 22, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">The Senate</div>
+          <div class="seated-event-venue-location">Columbia, SC</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          (Andy Hull Solo Show)
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+          <div class="seated-event-link-cell2">
+            <a class="seated-event-link2" href="https://link.seated.com/c3fbcf76-4e8f-4a80-bafb-975bfc7d47e3/2" target="_blank">
+              VIP
+            </a>
+          </div>
+        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/c3fbcf76-4e8f-4a80-bafb-975bfc7d47e3" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          May 23, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">The Basement East</div>
+          <div class="seated-event-venue-location">Nashville, TN</div>
+        </div>
+        <div class="seated-event-details-cell">
+            <span class="seated-event-details-sold-out">
+              Sold Out
+            </span>
+          (Andy Hull Solo Show)
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+          <div class="seated-event-link-cell2">
+            <a class="seated-event-link2" href="https://link.seated.com/8c557b60-87b7-4103-b687-9977630b472f/2" target="_blank">
+              VIP
+            </a>
+          </div>
+        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1 seated-event-link1-find-tickets" href="https://link.seated.com/8c557b60-87b7-4103-b687-9977630b472f" target="_blank">
+<!---->              Join Waitlist
+<!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          May 24, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Variety Playhouse</div>
+          <div class="seated-event-venue-location">Atlanta, GA</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          (Andy Hull Solo Show)
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+          <div class="seated-event-link-cell2">
+            <a class="seated-event-link2" href="https://link.seated.com/315d4b9f-57ff-419d-9b6c-074334c4bb31/2" target="_blank">
+              VIP
+            </a>
+          </div>
+        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/315d4b9f-57ff-419d-9b6c-074334c4bb31" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Jul 7, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Great South Bay Music Festival</div>
+          <div class="seated-event-venue-location">Patchogue, NY</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/53b8d109-9166-41c9-abda-fb6359644e41" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Jul 9, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">HISTORY</div>
+          <div class="seated-event-venue-location">Toronto, ON</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/a429696f-293e-476e-b747-bc7cc2cf3d22" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Jul 10, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">MTELUS</div>
+          <div class="seated-event-venue-location">Montreal, QC</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/8d130ff2-76ed-4f8e-b69a-a0a6919bdd4e" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Jul 28, 2022
+            -
+            Jul 31, 2022
+        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Lollapalooza</div>
+          <div class="seated-event-venue-location">Chicago, IL</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/911d7625-c9d3-4285-9411-0ac7f4c6e4f2" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Sep 15, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Manchester Academy</div>
+          <div class="seated-event-venue-location">Manchester, UK</div>
+        </div>
+        <div class="seated-event-details-cell">
+            <span class="seated-event-details-sold-out">
+              Sold Out
+            </span>
+          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1 seated-event-link1-find-tickets" href="https://link.seated.com/2e6f5618-5ca2-4c12-a34c-77e530ba4b14" target="_blank">
+<!---->              Join Waitlist
+<!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Sep 16, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">O2 Forum Kentish Town</div>
+          <div class="seated-event-venue-location">London, United Kingdom</div>
+        </div>
+        <div class="seated-event-details-cell">
+            <span class="seated-event-details-sold-out">
+              Sold Out
+            </span>
+          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1 seated-event-link1-find-tickets" href="https://link.seated.com/8395c9f4-a57e-42e2-9f8c-36151d812f66" target="_blank">
+<!---->              Join Waitlist
+<!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Sep 22, 2022
+            -
+            Sep 25, 2022
+        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Firefly Music Festival</div>
+          <div class="seated-event-venue-location">Dover, DE</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/f6a56629-3927-447a-b37f-def6b46d4159" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Sep 24, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Furnace Fest</div>
+          <div class="seated-event-venue-location">Birmingham, AL</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/774a38e2-5f68-4b1a-9046-0d3be57468f6" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Oct 1, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">Ohana Festival</div>
+          <div class="seated-event-venue-location">Dana Point, CA</div>
+        </div>
+        <div class="seated-event-details-cell">
+<!---->          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1" href="https://link.seated.com/685f86d9-7700-4fce-9bdb-b063c0530420" target="_blank">
+<!---->                Tickets
+            <!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Oct 22, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">When We Were Young</div>
+          <div class="seated-event-venue-location">Las Vegas, NV</div>
+        </div>
+        <div class="seated-event-details-cell">
+            <span class="seated-event-details-sold-out">
+              Sold Out
+            </span>
+          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1 seated-event-link1-find-tickets" href="https://link.seated.com/0e79ad73-0e59-4dd8-926b-272f944e17d1" target="_blank">
+<!---->              Join Waitlist
+<!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Oct 23, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">When We Were Young</div>
+          <div class="seated-event-venue-location">Las Vegas, NV</div>
+        </div>
+        <div class="seated-event-details-cell">
+            <span class="seated-event-details-sold-out">
+              Sold Out
+            </span>
+          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1 seated-event-link1-find-tickets" href="https://link.seated.com/fef9d29e-e376-49e7-bdef-f27d88c2c45d" target="_blank">
+<!---->              Join Waitlist
+<!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        
+    <div class="seated-event-row">
+      <div class="seated-event-description-cells">
+        <div class="seated-event-date-cell">
+          Oct 29, 2022
+<!---->        </div>
+        <div class="seated-event-venue-cell">
+          <div class="seated-event-venue-name">When We Were Young</div>
+          <div class="seated-event-venue-location">Las Vegas, NV</div>
+        </div>
+        <div class="seated-event-details-cell">
+            <span class="seated-event-details-sold-out">
+              Sold Out
+            </span>
+          
+        </div>
+      </div>
+      <div class="seated-event-link-cells">
+<!---->        <div class="seated-event-link-cell1">
+          <a class="seated-event-link1 seated-event-link1-find-tickets" href="https://link.seated.com/dda310ad-31fd-4180-bb54-2b9e5f5109f3" target="_blank">
+<!---->              Join Waitlist
+<!---->          </a>
+        </div>
+      </div>
+    </div>
+    
+        <div class="seated-follow-box">
+          <div class="seated-follow-text">
+            Get notified when new events are announced in your area
+          </div>
+          <a class="seated-follow-link" href="https://go.seated.com/notifications/welcome/eefbeaae-dbb1-4e40-a1e1-770ebd2dc777" target="_blank">Follow Manchester Orchestra</a>
+        </div>
+      <div class="" style="text-align: right; margin: 10px 5px; font-size: 1rem; text-transform: lowercase;">
+        powered by <a style="font-weight: 900; font-family: muli, Avenir, Proxima Nova, sans-serif; font-size: 1.15rem; padding: 0; vertical-align: baseline; text-decoration: none; color: inherit; background-color: inherit;" href="https://www.seated.com" target="_blank">seated</a>
+      </div>
+    </div>
+    <script type="application/ld+json">
+      [{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Irving Plaza in New York, NY on May 15, 2022.","endDate":"2022-05-15","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"New York, NY"},"name":"Irving Plaza"},"name":"Manchester Orchestra @ Irving Plaza","offers":{"@type":"Offer","url":"https://link.seated.com/99e9899c-a8c4-4089-a55b-8e93bd7c1b13"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-05-15"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at The Met in Pawtucket, RI on May 16, 2022.","endDate":"2022-05-16","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Pawtucket, RI"},"name":"The Met"},"name":"Manchester Orchestra @ The Met","offers":{"@type":"Offer","url":"https://link.seated.com/84d5aaac-abc0-4e39-89ef-e586f3dd932c"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-05-16"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Crystal Ballroom at Somerville Theatre in Somerville, MA on May 17, 2022.","endDate":"2022-05-17","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Somerville, MA"},"name":"Crystal Ballroom at Somerville Theatre"},"name":"Manchester Orchestra @ Crystal Ballroom at Somerville Theatre","offers":{"@type":"Offer","url":"https://link.seated.com/0abe2eae-ae1f-467e-aa55-56b19cf9519d"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-05-17"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Sixth & I Historic Synagogue in Washington, DC on May 18, 2022.","endDate":"2022-05-18","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Washington, DC"},"name":"Sixth & I Historic Synagogue"},"name":"Manchester Orchestra @ Sixth & I Historic Synagogue","offers":{"@type":"Offer","url":"https://link.seated.com/6748684a-bc10-4dad-b203-6246517552a7"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-05-18"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Union Transfer in Philadelphia, PA on May 19, 2022.","endDate":"2022-05-19","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Philadelphia, PA"},"name":"Union Transfer"},"name":"Manchester Orchestra @ Union Transfer","offers":{"@type":"Offer","url":"https://link.seated.com/47e7227c-e2fd-47ff-8bc2-81ca8d3da399"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-05-19"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Haw River Ballroom in Saxapahaw, NC on May 21, 2022.","endDate":"2022-05-21","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Saxapahaw, NC"},"name":"Haw River Ballroom"},"name":"Manchester Orchestra @ Haw River Ballroom","offers":{"@type":"Offer","url":"https://link.seated.com/e22fd792-1cc6-40a8-8eac-f1f0ed92fc30"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-05-21"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at The Senate in Columbia, SC on May 22, 2022.","endDate":"2022-05-22","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Columbia, SC"},"name":"The Senate"},"name":"Manchester Orchestra @ The Senate","offers":{"@type":"Offer","url":"https://link.seated.com/c3fbcf76-4e8f-4a80-bafb-975bfc7d47e3"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-05-22"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at The Basement East in Nashville, TN on May 23, 2022.","endDate":"2022-05-23","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Nashville, TN"},"name":"The Basement East"},"name":"Manchester Orchestra @ The Basement East","offers":{"@type":"Offer","url":"https://link.seated.com/8c557b60-87b7-4103-b687-9977630b472f"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-05-23"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Variety Playhouse in Atlanta, GA on May 24, 2022.","endDate":"2022-05-24","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Atlanta, GA"},"name":"Variety Playhouse"},"name":"Manchester Orchestra @ Variety Playhouse","offers":{"@type":"Offer","url":"https://link.seated.com/315d4b9f-57ff-419d-9b6c-074334c4bb31"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-05-24"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Great South Bay Music Festival in Patchogue, NY on Jul 7, 2022.","endDate":"2022-07-07","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Patchogue, NY"},"name":"Great South Bay Music Festival"},"name":"Manchester Orchestra @ Great South Bay Music Festival","offers":{"@type":"Offer","url":"https://link.seated.com/53b8d109-9166-41c9-abda-fb6359644e41"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-07-07"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at HISTORY in Toronto, ON on Jul 9, 2022.","endDate":"2022-07-09","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Toronto, ON"},"name":"HISTORY"},"name":"Manchester Orchestra @ HISTORY","offers":{"@type":"Offer","url":"https://link.seated.com/a429696f-293e-476e-b747-bc7cc2cf3d22"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-07-09"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at MTELUS in Montreal, QC on Jul 10, 2022.","endDate":"2022-07-10","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Montreal, QC"},"name":"MTELUS"},"name":"Manchester Orchestra @ MTELUS","offers":{"@type":"Offer","url":"https://link.seated.com/8d130ff2-76ed-4f8e-b69a-a0a6919bdd4e"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-07-10"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Lollapalooza in Chicago, IL on Jul 28, 2022.","endDate":"2022-07-31","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Chicago, IL"},"name":"Lollapalooza"},"name":"Manchester Orchestra @ Lollapalooza","offers":{"@type":"Offer","url":"https://link.seated.com/911d7625-c9d3-4285-9411-0ac7f4c6e4f2"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-07-28"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Manchester Academy in Manchester, UK on Sep 15, 2022.","endDate":"2022-09-15","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Manchester, UK"},"name":"Manchester Academy"},"name":"Manchester Orchestra @ Manchester Academy","offers":{"@type":"Offer","url":"https://link.seated.com/2e6f5618-5ca2-4c12-a34c-77e530ba4b14"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-09-15"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at O2 Forum Kentish Town in London, United Kingdom on Sep 16, 2022.","endDate":"2022-09-16","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"London, United Kingdom"},"name":"O2 Forum Kentish Town"},"name":"Manchester Orchestra @ O2 Forum Kentish Town","offers":{"@type":"Offer","url":"https://link.seated.com/8395c9f4-a57e-42e2-9f8c-36151d812f66"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-09-16"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Firefly Music Festival in Dover, DE on Sep 22, 2022.","endDate":"2022-09-25","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Dover, DE"},"name":"Firefly Music Festival"},"name":"Manchester Orchestra @ Firefly Music Festival","offers":{"@type":"Offer","url":"https://link.seated.com/f6a56629-3927-447a-b37f-def6b46d4159"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-09-22"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Furnace Fest in Birmingham, AL on Sep 24, 2022.","endDate":"2022-09-24","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Birmingham, AL"},"name":"Furnace Fest"},"name":"Manchester Orchestra @ Furnace Fest","offers":{"@type":"Offer","url":"https://link.seated.com/774a38e2-5f68-4b1a-9046-0d3be57468f6"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-09-24"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at Ohana Festival in Dana Point, CA on Oct 1, 2022.","endDate":"2022-10-01","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Dana Point, CA"},"name":"Ohana Festival"},"name":"Manchester Orchestra @ Ohana Festival","offers":{"@type":"Offer","url":"https://link.seated.com/685f86d9-7700-4fce-9bdb-b063c0530420"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-10-01"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at When We Were Young in Las Vegas, NV on Oct 22, 2022.","endDate":"2022-10-22","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Las Vegas, NV"},"name":"When We Were Young"},"name":"Manchester Orchestra @ When We Were Young","offers":{"@type":"Offer","url":"https://link.seated.com/0e79ad73-0e59-4dd8-926b-272f944e17d1"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-10-22"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at When We Were Young in Las Vegas, NV on Oct 23, 2022.","endDate":"2022-10-23","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Las Vegas, NV"},"name":"When We Were Young"},"name":"Manchester Orchestra @ When We Were Young","offers":{"@type":"Offer","url":"https://link.seated.com/fef9d29e-e376-49e7-bdef-f27d88c2c45d"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-10-23"},{"@context":"http://schema.org","@type":"MusicEvent","description":"Manchester Orchestra is performing at When We Were Young in Las Vegas, NV on Oct 29, 2022.","endDate":"2022-10-29","image":["https://seated.imgix.net/d60eb791-140b-4182-a9ac-1e9c1a33817e/4614fec3-0ce2-40e5-a590-0589f7fc615e.jpeg"],"location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Las Vegas, NV"},"name":"When We Were Young"},"name":"Manchester Orchestra @ When We Were Young","offers":{"@type":"Offer","url":"https://link.seated.com/dda310ad-31fd-4180-bb54-2b9e5f5109f3"},"performer":{"@type":"PerformingGroup","name":"Manchester Orchestra"},"startDate":"2022-10-29"}]
+    </script>
+    
+    </div><script src="https://widget.seated.com/app.js"></script>
+                </div>
+        </div>
+</div></div></div></div>

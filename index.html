@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_f1a17fd18bebd7f9899d8e9f4e38353a {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_f1a17fd18bebd7f9899d8e9f4e38353a" ></div>
+        
+</body>
+<script>    
+    
+            var map_f1a17fd18bebd7f9899d8e9f4e38353a = L.map(
+                "map_f1a17fd18bebd7f9899d8e9f4e38353a",
+                {
+                    center: [0, 0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 1,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ee3e96b1fb6ca87a1166ff382b5a4d4d = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_f1a17fd18bebd7f9899d8e9f4e38353a);
+        
+    
+            var marker_cluster_660fde4524e8c478bed57e7e90960ff7 = L.markerClusterGroup(
+                {}
+            );
+            map_f1a17fd18bebd7f9899d8e9f4e38353a.addLayer(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var marker_d2fe42bbfe00cbe970df518a6657d830 = L.marker(
+                [40.7659783, -73.01934299999999],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_17e780b8ca4f19bf6cc86b565c2ec5b4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_d2fe42bbfe00cbe970df518a6657d830.setIcon(icon_17e780b8ca4f19bf6cc86b565c2ec5b4);
+        
+    
+        var popup_a17d2aef9f9d832278c6bf242bd26787 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2e918c957b7ad7f712cb3df988d36e2b = $(`<div id="html_2e918c957b7ad7f712cb3df988d36e2b" style="width: 100.0%; height: 100.0%;">Jul 7, 2022 <br> Patchogue, NY</div>`)[0];
+            popup_a17d2aef9f9d832278c6bf242bd26787.setContent(html_2e918c957b7ad7f712cb3df988d36e2b);
+        
+
+        marker_d2fe42bbfe00cbe970df518a6657d830.bindPopup(popup_a17d2aef9f9d832278c6bf242bd26787)
+        ;
+
+        
+    
+    
+            marker_d2fe42bbfe00cbe970df518a6657d830.bindTooltip(
+                `<div>
+                     Patchogue, NY
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0aba36d300e989c7057eb052edde51ed = L.marker(
+                [43.653226, -79.3831843],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_0269bd61ec285133877b76c7caaa53ac = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_0aba36d300e989c7057eb052edde51ed.setIcon(icon_0269bd61ec285133877b76c7caaa53ac);
+        
+    
+        var popup_bbcd721692c3c542f8727db722d612e8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_17062e22e9c93be33b168ce65bfc52c9 = $(`<div id="html_17062e22e9c93be33b168ce65bfc52c9" style="width: 100.0%; height: 100.0%;">Jul 9, 2022 <br> Toronto, ON</div>`)[0];
+            popup_bbcd721692c3c542f8727db722d612e8.setContent(html_17062e22e9c93be33b168ce65bfc52c9);
+        
+
+        marker_0aba36d300e989c7057eb052edde51ed.bindPopup(popup_bbcd721692c3c542f8727db722d612e8)
+        ;
+
+        
+    
+    
+            marker_0aba36d300e989c7057eb052edde51ed.bindTooltip(
+                `<div>
+                     Toronto, ON
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_527e96b07d3fed02cc770f0a71cb2b39 = L.marker(
+                [45.5016889, -73.567256],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_b151be042ee358cfa46edea1639ea0aa = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_527e96b07d3fed02cc770f0a71cb2b39.setIcon(icon_b151be042ee358cfa46edea1639ea0aa);
+        
+    
+        var popup_d3f1b13368ab9e8c23042c34e88f4906 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e9cb61ae713a6337819458c8eeb62f54 = $(`<div id="html_e9cb61ae713a6337819458c8eeb62f54" style="width: 100.0%; height: 100.0%;">Jul 10, 2022 <br> Montreal, QC</div>`)[0];
+            popup_d3f1b13368ab9e8c23042c34e88f4906.setContent(html_e9cb61ae713a6337819458c8eeb62f54);
+        
+
+        marker_527e96b07d3fed02cc770f0a71cb2b39.bindPopup(popup_d3f1b13368ab9e8c23042c34e88f4906)
+        ;
+
+        
+    
+    
+            marker_527e96b07d3fed02cc770f0a71cb2b39.bindTooltip(
+                `<div>
+                     Montreal, QC
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1e2131d4730b42125b00d4dc08098ff6 = L.marker(
+                [41.8781136, -87.6297982],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_1dfc75c8a9f1d894a4d89d7432db71eb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_1e2131d4730b42125b00d4dc08098ff6.setIcon(icon_1dfc75c8a9f1d894a4d89d7432db71eb);
+        
+    
+        var popup_9d45dd5721aeb493be6ab8a827b4aa73 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9e3b61a5dc85df15af0fda8f21e493b9 = $(`<div id="html_9e3b61a5dc85df15af0fda8f21e493b9" style="width: 100.0%; height: 100.0%;">Jul 28, 2022             -             Jul 31, 2022 <br> Chicago, IL</div>`)[0];
+            popup_9d45dd5721aeb493be6ab8a827b4aa73.setContent(html_9e3b61a5dc85df15af0fda8f21e493b9);
+        
+
+        marker_1e2131d4730b42125b00d4dc08098ff6.bindPopup(popup_9d45dd5721aeb493be6ab8a827b4aa73)
+        ;
+
+        
+    
+    
+            marker_1e2131d4730b42125b00d4dc08098ff6.bindTooltip(
+                `<div>
+                     Chicago, IL
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bb3d13e96d24b858da86f1670202fb56 = L.marker(
+                [41.8781136, -87.6297982],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_a921410f90744bab0bfb49ffceb78ac0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_bb3d13e96d24b858da86f1670202fb56.setIcon(icon_a921410f90744bab0bfb49ffceb78ac0);
+        
+    
+        var popup_d18c8ccb5e479d794739f2efc304f95d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ef1fed707e735f6b176301a9ee1802dd = $(`<div id="html_ef1fed707e735f6b176301a9ee1802dd" style="width: 100.0%; height: 100.0%;">Jul 29, 2022 <br> Chicago, IL</div>`)[0];
+            popup_d18c8ccb5e479d794739f2efc304f95d.setContent(html_ef1fed707e735f6b176301a9ee1802dd);
+        
+
+        marker_bb3d13e96d24b858da86f1670202fb56.bindPopup(popup_d18c8ccb5e479d794739f2efc304f95d)
+        ;
+
+        
+    
+    
+            marker_bb3d13e96d24b858da86f1670202fb56.bindTooltip(
+                `<div>
+                     Chicago, IL
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fe512cebcb34ea54db20a841e30b2553 = L.marker(
+                [42.2528772, -71.0022705],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_375b512de3fd6196a8df4a5a8b5bf939 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_fe512cebcb34ea54db20a841e30b2553.setIcon(icon_375b512de3fd6196a8df4a5a8b5bf939);
+        
+    
+        var popup_1967c80ddfc2f1f51989ce88f05d8966 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1d47131735bc3154083b6039bfc2dec5 = $(`<div id="html_1d47131735bc3154083b6039bfc2dec5" style="width: 100.0%; height: 100.0%;">Aug 20, 2022 <br> Quincy, MA</div>`)[0];
+            popup_1967c80ddfc2f1f51989ce88f05d8966.setContent(html_1d47131735bc3154083b6039bfc2dec5);
+        
+
+        marker_fe512cebcb34ea54db20a841e30b2553.bindPopup(popup_1967c80ddfc2f1f51989ce88f05d8966)
+        ;
+
+        
+    
+    
+            marker_fe512cebcb34ea54db20a841e30b2553.bindTooltip(
+                `<div>
+                     Quincy, MA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_032584c29b409e3519ceab3819d16c8f = L.marker(
+                [44.9537029, -93.0899578],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_b9f69ff0bfd3a5bc54b4c12934d80b0d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_032584c29b409e3519ceab3819d16c8f.setIcon(icon_b9f69ff0bfd3a5bc54b4c12934d80b0d);
+        
+    
+        var popup_b8f717bd1dd0abb6e783a428d918f46a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e30e16ea588bcd5795dd87955af76c79 = $(`<div id="html_e30e16ea588bcd5795dd87955af76c79" style="width: 100.0%; height: 100.0%;">Aug 27, 2022 <br> St Paul, MN</div>`)[0];
+            popup_b8f717bd1dd0abb6e783a428d918f46a.setContent(html_e30e16ea588bcd5795dd87955af76c79);
+        
+
+        marker_032584c29b409e3519ceab3819d16c8f.bindPopup(popup_b8f717bd1dd0abb6e783a428d918f46a)
+        ;
+
+        
+    
+    
+            marker_032584c29b409e3519ceab3819d16c8f.bindTooltip(
+                `<div>
+                     St Paul, MN
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b7ad820ec57700a7bf59354d6662a5b8 = L.marker(
+                [53.4807593, -2.2426305],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_ab49fd0172404a293094f75a79459301 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_b7ad820ec57700a7bf59354d6662a5b8.setIcon(icon_ab49fd0172404a293094f75a79459301);
+        
+    
+        var popup_7e7c384c01423b8dbcb70aeac8dbce6d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f276fd12fefa3e0b7534a7a5c670d975 = $(`<div id="html_f276fd12fefa3e0b7534a7a5c670d975" style="width: 100.0%; height: 100.0%;">Sep 15, 2022 <br> Manchester, UK</div>`)[0];
+            popup_7e7c384c01423b8dbcb70aeac8dbce6d.setContent(html_f276fd12fefa3e0b7534a7a5c670d975);
+        
+
+        marker_b7ad820ec57700a7bf59354d6662a5b8.bindPopup(popup_7e7c384c01423b8dbcb70aeac8dbce6d)
+        ;
+
+        
+    
+    
+            marker_b7ad820ec57700a7bf59354d6662a5b8.bindTooltip(
+                `<div>
+                     Manchester, UK
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ded490b0c8851c1fd5fdccfdaa493702 = L.marker(
+                [51.5072178, -0.1275862],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_f5045e0631f17faf9b7ffa5e6c9e4750 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_ded490b0c8851c1fd5fdccfdaa493702.setIcon(icon_f5045e0631f17faf9b7ffa5e6c9e4750);
+        
+    
+        var popup_f640e5bc267497f25fb958105654f133 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c61729f3326abed8fd1ed662b243e11d = $(`<div id="html_c61729f3326abed8fd1ed662b243e11d" style="width: 100.0%; height: 100.0%;">Sep 16, 2022 <br> London, United Kingdom</div>`)[0];
+            popup_f640e5bc267497f25fb958105654f133.setContent(html_c61729f3326abed8fd1ed662b243e11d);
+        
+
+        marker_ded490b0c8851c1fd5fdccfdaa493702.bindPopup(popup_f640e5bc267497f25fb958105654f133)
+        ;
+
+        
+    
+    
+            marker_ded490b0c8851c1fd5fdccfdaa493702.bindTooltip(
+                `<div>
+                     London, United Kingdom
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_43c77252ad80cdda680b5a3e2bb26dd1 = L.marker(
+                [39.158168, -75.5243682],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_62785e5326a34cac0e0860a4b494caf8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_43c77252ad80cdda680b5a3e2bb26dd1.setIcon(icon_62785e5326a34cac0e0860a4b494caf8);
+        
+    
+        var popup_bff60e5e547071127fa43e683ad807e0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_028931847c4e2c69ef0406bab84495ad = $(`<div id="html_028931847c4e2c69ef0406bab84495ad" style="width: 100.0%; height: 100.0%;">Sep 22, 2022             -             Sep 25, 2022 <br> Dover, DE</div>`)[0];
+            popup_bff60e5e547071127fa43e683ad807e0.setContent(html_028931847c4e2c69ef0406bab84495ad);
+        
+
+        marker_43c77252ad80cdda680b5a3e2bb26dd1.bindPopup(popup_bff60e5e547071127fa43e683ad807e0)
+        ;
+
+        
+    
+    
+            marker_43c77252ad80cdda680b5a3e2bb26dd1.bindTooltip(
+                `<div>
+                     Dover, DE
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_90007c6ae96f5ff193de748c40893751 = L.marker(
+                [33.5185892, -86.8103567],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_e3fc9c3719a9b6036ea2947ca8bf8660 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_90007c6ae96f5ff193de748c40893751.setIcon(icon_e3fc9c3719a9b6036ea2947ca8bf8660);
+        
+    
+        var popup_8df807eafe600e9b29b9ed3b48a96148 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3f3fb1bdbd6e341b47d9e24ced601766 = $(`<div id="html_3f3fb1bdbd6e341b47d9e24ced601766" style="width: 100.0%; height: 100.0%;">Sep 24, 2022 <br> Birmingham, AL</div>`)[0];
+            popup_8df807eafe600e9b29b9ed3b48a96148.setContent(html_3f3fb1bdbd6e341b47d9e24ced601766);
+        
+
+        marker_90007c6ae96f5ff193de748c40893751.bindPopup(popup_8df807eafe600e9b29b9ed3b48a96148)
+        ;
+
+        
+    
+    
+            marker_90007c6ae96f5ff193de748c40893751.bindTooltip(
+                `<div>
+                     Birmingham, AL
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ddf277f978375f931e20b744ad538113 = L.marker(
+                [34.2804923, -119.2945199],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_2fea7f48ea58f9484941ab523065d89f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_ddf277f978375f931e20b744ad538113.setIcon(icon_2fea7f48ea58f9484941ab523065d89f);
+        
+    
+        var popup_4fea264fc2de783aafdda6278ddee964 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_88dab868bc05663c4c71c360108f133a = $(`<div id="html_88dab868bc05663c4c71c360108f133a" style="width: 100.0%; height: 100.0%;">Sep 30, 2022 <br> Ventura, CA</div>`)[0];
+            popup_4fea264fc2de783aafdda6278ddee964.setContent(html_88dab868bc05663c4c71c360108f133a);
+        
+
+        marker_ddf277f978375f931e20b744ad538113.bindPopup(popup_4fea264fc2de783aafdda6278ddee964)
+        ;
+
+        
+    
+    
+            marker_ddf277f978375f931e20b744ad538113.bindTooltip(
+                `<div>
+                     Ventura, CA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_aab740affacfaaea1957e3cbfd2fc929 = L.marker(
+                [33.4672256, -117.6981014],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_4940b51e93a7c94511fb047f1b372dce = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_aab740affacfaaea1957e3cbfd2fc929.setIcon(icon_4940b51e93a7c94511fb047f1b372dce);
+        
+    
+        var popup_a800769f8b27c514bc235d934a88214a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_899adeb4730f2ab44eb6b44708b9b016 = $(`<div id="html_899adeb4730f2ab44eb6b44708b9b016" style="width: 100.0%; height: 100.0%;">Oct 1, 2022 <br> Dana Point, CA</div>`)[0];
+            popup_a800769f8b27c514bc235d934a88214a.setContent(html_899adeb4730f2ab44eb6b44708b9b016);
+        
+
+        marker_aab740affacfaaea1957e3cbfd2fc929.bindPopup(popup_a800769f8b27c514bc235d934a88214a)
+        ;
+
+        
+    
+    
+            marker_aab740affacfaaea1957e3cbfd2fc929.bindTooltip(
+                `<div>
+                     Dana Point, CA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2aaff504746463e673cb2822247075c5 = L.marker(
+                [32.2539787, -110.9741769],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_8fb26d8ce5c7162b247824640aa3405e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2aaff504746463e673cb2822247075c5.setIcon(icon_8fb26d8ce5c7162b247824640aa3405e);
+        
+    
+        var popup_b52b78f4bff0d3f856d66e297324af7e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b5a7bc5671cea208023b9c1fcfe8e0c1 = $(`<div id="html_b5a7bc5671cea208023b9c1fcfe8e0c1" style="width: 100.0%; height: 100.0%;">Oct 2, 2022 <br> Tucson, AZ</div>`)[0];
+            popup_b52b78f4bff0d3f856d66e297324af7e.setContent(html_b5a7bc5671cea208023b9c1fcfe8e0c1);
+        
+
+        marker_2aaff504746463e673cb2822247075c5.bindPopup(popup_b52b78f4bff0d3f856d66e297324af7e)
+        ;
+
+        
+    
+    
+            marker_2aaff504746463e673cb2822247075c5.bindTooltip(
+                `<div>
+                     Tucson, AZ
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_30235e1eedcda910ad20bcba79e6229a = L.marker(
+                [35.0843859, -106.650422],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_b3640110cce8ba677bd84ef0f3bd9608 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_30235e1eedcda910ad20bcba79e6229a.setIcon(icon_b3640110cce8ba677bd84ef0f3bd9608);
+        
+    
+        var popup_f805d3e0ff5732fb21a831febce16565 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4787a9cefb2d218ff8a1b6566cde67aa = $(`<div id="html_4787a9cefb2d218ff8a1b6566cde67aa" style="width: 100.0%; height: 100.0%;">Oct 4, 2022 <br> Albuquerque, NM</div>`)[0];
+            popup_f805d3e0ff5732fb21a831febce16565.setContent(html_4787a9cefb2d218ff8a1b6566cde67aa);
+        
+
+        marker_30235e1eedcda910ad20bcba79e6229a.bindPopup(popup_f805d3e0ff5732fb21a831febce16565)
+        ;
+
+        
+    
+    
+            marker_30235e1eedcda910ad20bcba79e6229a.bindTooltip(
+                `<div>
+                     Albuquerque, NM
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9fc214c8821925ea77e794e2bd526edb = L.marker(
+                [39.7392358, -104.990251],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_90883b659332f179ce7ffb9c8b4137a8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_9fc214c8821925ea77e794e2bd526edb.setIcon(icon_90883b659332f179ce7ffb9c8b4137a8);
+        
+    
+        var popup_012d05f3d2a04eb04d96db51bd9b4354 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1dd1161c3a7a682fae269218dabbd72c = $(`<div id="html_1dd1161c3a7a682fae269218dabbd72c" style="width: 100.0%; height: 100.0%;">Oct 5, 2022 <br> Denver, CO</div>`)[0];
+            popup_012d05f3d2a04eb04d96db51bd9b4354.setContent(html_1dd1161c3a7a682fae269218dabbd72c);
+        
+
+        marker_9fc214c8821925ea77e794e2bd526edb.bindPopup(popup_012d05f3d2a04eb04d96db51bd9b4354)
+        ;
+
+        
+    
+    
+            marker_9fc214c8821925ea77e794e2bd526edb.bindTooltip(
+                `<div>
+                     Denver, CO
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fa6c7efaf369b2095b8aea05b281d32c = L.marker(
+                [30.267153, -97.7430608],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_43de8f27ba463575830ab3d0d11fe36a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_fa6c7efaf369b2095b8aea05b281d32c.setIcon(icon_43de8f27ba463575830ab3d0d11fe36a);
+        
+    
+        var popup_fdf3a60975faf2d3ace06facfa4350b6 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5b830c8e00f92c8250c863b825e52388 = $(`<div id="html_5b830c8e00f92c8250c863b825e52388" style="width: 100.0%; height: 100.0%;">Oct 7, 2022             -             Oct 9, 2022 <br> Austin, TX</div>`)[0];
+            popup_fdf3a60975faf2d3ace06facfa4350b6.setContent(html_5b830c8e00f92c8250c863b825e52388);
+        
+
+        marker_fa6c7efaf369b2095b8aea05b281d32c.bindPopup(popup_fdf3a60975faf2d3ace06facfa4350b6)
+        ;
+
+        
+    
+    
+            marker_fa6c7efaf369b2095b8aea05b281d32c.bindTooltip(
+                `<div>
+                     Austin, TX
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_12d09ddc3c693fda6dbd32c120dee974 = L.marker(
+                [36.171563, -115.1391009],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_68adb893d0b2b8300d8878e4f25ed19d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_12d09ddc3c693fda6dbd32c120dee974.setIcon(icon_68adb893d0b2b8300d8878e4f25ed19d);
+        
+    
+        var popup_d877ed2973a57b524ceeb949a0376723 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d6153717af6d8c1f3b26a58501d906fd = $(`<div id="html_d6153717af6d8c1f3b26a58501d906fd" style="width: 100.0%; height: 100.0%;">Oct 22, 2022 <br> Las Vegas, NV</div>`)[0];
+            popup_d877ed2973a57b524ceeb949a0376723.setContent(html_d6153717af6d8c1f3b26a58501d906fd);
+        
+
+        marker_12d09ddc3c693fda6dbd32c120dee974.bindPopup(popup_d877ed2973a57b524ceeb949a0376723)
+        ;
+
+        
+    
+    
+            marker_12d09ddc3c693fda6dbd32c120dee974.bindTooltip(
+                `<div>
+                     Las Vegas, NV
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_16430c73e01cd5386fe41bf1bbf1b319 = L.marker(
+                [36.171563, -115.1391009],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_64831e250949fd93873359b34c379718 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_16430c73e01cd5386fe41bf1bbf1b319.setIcon(icon_64831e250949fd93873359b34c379718);
+        
+    
+        var popup_9b7c7d449a1bd8026722c1d2e6071626 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2686245f9dda417d29dd4b64b8637553 = $(`<div id="html_2686245f9dda417d29dd4b64b8637553" style="width: 100.0%; height: 100.0%;">Oct 23, 2022 <br> Las Vegas, NV</div>`)[0];
+            popup_9b7c7d449a1bd8026722c1d2e6071626.setContent(html_2686245f9dda417d29dd4b64b8637553);
+        
+
+        marker_16430c73e01cd5386fe41bf1bbf1b319.bindPopup(popup_9b7c7d449a1bd8026722c1d2e6071626)
+        ;
+
+        
+    
+    
+            marker_16430c73e01cd5386fe41bf1bbf1b319.bindTooltip(
+                `<div>
+                     Las Vegas, NV
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8fbcfb493befd7e9e0b94f0013ccc876 = L.marker(
+                [36.171563, -115.1391009],
+                {}
+            ).addTo(marker_cluster_660fde4524e8c478bed57e7e90960ff7);
+        
+    
+            var icon_b88478dcab3b33be3a2d48928f227a18 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_8fbcfb493befd7e9e0b94f0013ccc876.setIcon(icon_b88478dcab3b33be3a2d48928f227a18);
+        
+    
+        var popup_530cb73ec021ab2d590a91ba65d12652 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_70a097fe7db441559afb4088b232b44e = $(`<div id="html_70a097fe7db441559afb4088b232b44e" style="width: 100.0%; height: 100.0%;">Oct 29, 2022 <br> Las Vegas, NV</div>`)[0];
+            popup_530cb73ec021ab2d590a91ba65d12652.setContent(html_70a097fe7db441559afb4088b232b44e);
+        
+
+        marker_8fbcfb493befd7e9e0b94f0013ccc876.bindPopup(popup_530cb73ec021ab2d590a91ba65d12652)
+        ;
+
+        
+    
+    
+            marker_8fbcfb493befd7e9e0b94f0013ccc876.bindTooltip(
+                `<div>
+                     Las Vegas, NV
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
